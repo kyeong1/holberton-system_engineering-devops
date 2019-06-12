@@ -1,1 +1,1 @@
-This project is created to learn about Shell basics in System engineering & DevOps. 
+This project is created to learn about Shell basics in System engineering & DevOps.
