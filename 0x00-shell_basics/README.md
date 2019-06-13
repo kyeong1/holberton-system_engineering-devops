@@ -1,1 +1,0 @@
-Basic navigation through Shell.
