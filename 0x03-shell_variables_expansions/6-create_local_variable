@@ -1,2 +1,2 @@
 #!/bin/bash
-MYVAR1="BETTY" | BETTY="Holberton"
+export BETTY="Holberton"
