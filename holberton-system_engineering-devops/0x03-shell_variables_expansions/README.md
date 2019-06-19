@@ -1,1 +1,0 @@
-This project is created to learn details regarding variables and special parameters in Shell.

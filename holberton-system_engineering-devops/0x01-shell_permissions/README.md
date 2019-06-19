@@ -1,1 +1,0 @@
-The scripts presented in this project are to familiarize user with permissions in Shell.
